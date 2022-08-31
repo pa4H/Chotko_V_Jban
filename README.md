@@ -8,7 +8,7 @@
 Компилируется на SourceMod 1.10
 
 У игрока должны скачиваться файлы: vjban.vmt, vjban.vtf, v_jban.mp3
-Настройки FastDL:
+## Настройки FastDL:
 ```
 sv_pure 0
 sv_consistency 0
