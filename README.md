@@ -15,9 +15,6 @@ sv_consistency 0
 sv_downloadurl "http://yoursite.ru/l4d2" // Вот сюда положить папки sound и materials
 sv_allowdownload 1
 sv_allowupload 1
-sm_downloader_enabled 1
-sm_downloader_normal 1
-sm_downloader_simple 0
 ```
 ##
 [Разработчик](https://vk.com/pa4h1337)
